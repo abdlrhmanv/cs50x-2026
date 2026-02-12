@@ -39,8 +39,8 @@ This repository is for **educational purposes** and personal documentation.
 - This repository adheres to CS50's [Academic Honesty](https://cs50.harvard.edu/x/2026/honesty/) policy.
 
 ## 🔗 Connect
-- **LinkedIn:** [[Abdlrhman Ismail](https://www.linkedin.com/in/abdlrhmanv/)]
-- **GitHub:** [[Abdlrhman Ismail](https://github.com/abdlrhmanv)]
+- **LinkedIn:** [Abdlrhman Ismail](https://www.linkedin.com/in/abdlrhmanv/)
+- **GitHub:** [Abdlrhman Ismail](https://github.com/abdlrhmanv)
 
 ---
 *This repository is unofficial and not affiliated with Harvard University.*
