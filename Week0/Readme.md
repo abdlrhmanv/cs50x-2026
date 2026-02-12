@@ -1,5 +1,6 @@
 # Valley of the Scarabs 🐞
 ### CS50x 2026 - Problem Set 0: Scratch
+![Valley of the Scarabs Gameplay](gameplay.png)
 
 **Valley of the Scarabs** is an interactive game inspired by Ancient Egypt, built entirely in Scratch as my first assignment for CS50x.
 
