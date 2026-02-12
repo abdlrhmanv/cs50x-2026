@@ -39,7 +39,7 @@ This repository is for **educational purposes** and personal documentation.
 - This repository adheres to CS50's [Academic Honesty](https://cs50.harvard.edu/x/2026/honesty/) policy.
 
 ## 🔗 Connect
-- **LinkedIn:** [Insert your LinkedIn Link Here]
+- **LinkedIn:** [(https://www.linkedin.com/in/abdlrhmanv/)]
 - **GitHub:** [Insert your GitHub Link Here]
 
 ---
